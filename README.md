@@ -2,7 +2,7 @@
 Projeto "Engenharia de software"
 
 ***
-#Participantes
+# Participantes
 
 Pablo Borba leal 
 
